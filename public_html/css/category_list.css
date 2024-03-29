@@ -1,0 +1,20 @@
+#grid {
+    padding: 5px;
+    display: grid;
+    grid-template-areas: 
+        'nav'
+        'categories';
+    gap: 10px;
+} 
+
+#categorygrid {
+    padding: 5px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+} 
+
+
+body {
+    background-color: white;
+}

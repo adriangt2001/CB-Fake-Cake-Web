@@ -1,0 +1,33 @@
+#container {
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+} 
+
+#Title {
+    color: lightpink;
+    text-align: center;
+}
+
+#Button {
+    background-color: white;
+    border-color: lightpink;
+}
+
+#SearchBar {
+    align-self: center;
+    padding: 10px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../../Imagenes/foto4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

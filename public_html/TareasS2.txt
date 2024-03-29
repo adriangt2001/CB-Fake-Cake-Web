@@ -1,0 +1,4 @@
+- Crear el encaminador index.php
+- Crear los ficheros de recursos par las páginas que ya hemos desarrollado
+- Crear los directorios modelo, view y controller [DONE]
+- Modificar las páginas que ya hemos desarrollado para que se adapten al patrón MVC (Tabla con lenguajes válidos según el elemento de la práctica en página 5 del documento de la segunda sesión)

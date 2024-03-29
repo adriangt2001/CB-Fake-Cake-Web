@@ -1,0 +1,15 @@
+Estructura general:
+	- En el index se podrá acceder al listado de categorías, incluso puede haber un desplegable en alguna parte de la pantalla en todos los html.
+	  Como en el explorador de archivos de windows, que te salen las carpetas a la izquierda.
+	
+	- Una vez se selecciona la categoría concreta, se redirige al usuario a la página de listado de productos.
+
+	- Cuando se selecciona un producto, se redirige al usuario a la página de los detalles del producto en concreto, que será un único html o php que leerá de una base de datos.
+
+	- Todas las páginas deben tener una opción de volver a la página de inicio.
+
+	- Las páginas de detalles y listado de producto deben tener una opción para volver a la página de listado de producto y listado de categorías respectivamente.
+
+	- Habrá una página de ajustes, para poder modificar el perfil e incluso si nos da tiempo modificar algún aspecto de la página.
+
+	- Habrá una página donde se pueda revisar la cesta. Además, en cualquier página se podrá abrir un desplegable o algo donde se pueda revisar la cesta en pequeñito.

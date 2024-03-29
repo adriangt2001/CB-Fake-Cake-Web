@@ -1,0 +1,25 @@
+#main-flex {
+    border: 1px solid rgb(70, 69, 69);
+    background-color: #ccc;
+    padding: 20px;
+    
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: center;
+    
+    width: 80%;
+    height: 200%;
+    margin: 0 auto;
+    margin-top: 10;
+}
+
+.element {
+    border: 1px solid rgb(70, 69, 69);
+    background-color: white;
+
+    line-height: 10px;
+    text-align: center;
+
+    margin: 5px;
+}
